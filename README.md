@@ -3,6 +3,14 @@ learn-promises
 
 Start writing (and keeping) JavaScript Promises today.
 
+![then sticker](http://i.imgur.com/vUv6iKt.png)
+
+If you have seen the "then" sticker on the laptop of a fellow 
+JavaScript developer and wondered "whaaat?" read on. 
+
+
+
+
 ## Useful Links
 
 - Promises/A+ Spec: http://promises-aplus.github.io/promises-spec/
