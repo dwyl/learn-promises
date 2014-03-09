@@ -1,4 +1,4 @@
-learn-promises
+Learn Promises
 ==============
 
 Start writing (and keeping) JavaScript Promises today.
@@ -6,7 +6,10 @@ Start writing (and keeping) JavaScript Promises today.
 ![then sticker](http://i.imgur.com/vUv6iKt.png)
 
 If you have seen the "then" sticker on the laptop of a fellow 
-JavaScript developer and wondered "whaaat?" read on. 
+JavaScript developer and wondered "*whaaat...?*" <br />
+```javascript
+.then( readOn(); )
+``` 
 
 
 
