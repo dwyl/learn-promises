@@ -1,0 +1,26 @@
+{
+  "name": "learn-promises",
+  "version": "0.0.1",
+  "description": "A quick JS Promises tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nelsonic/learn-promises.git"
+  },
+  "keywords": [
+    "Promises",
+    "learn"
+  ],
+  "author": "@nelsonic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonic/learn-promises/issues"
+  },
+  "homepage": "https://github.com/nelsonic/learn-promises",
+  "dependencies": {
+    "q": "~1.0.0"
+  }
+}
