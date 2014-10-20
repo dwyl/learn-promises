@@ -24,3 +24,4 @@ JavaScript developer and wondered "*whaaat...?*" <br />
 - What are Promises: http://codetunnel.com/what-are-callbacks-and-promises/
 - http://12devs.co.uk/articles/promises-an-alternative-way-to-approach-asynchronous-javascript/
 - http://stackoverflow.com/questions/21682632/simplest-fs-readfile-example-with-generators-and-q
+- Promise Nuggets: http://spion.github.io/promise-nuggets (examples)
